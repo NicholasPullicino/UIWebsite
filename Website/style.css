@@ -235,6 +235,10 @@ p{
     padding: 20px;
 }
 
+.profile-box p{
+    color: #fff;
+}
+
 .profile-info{
     background-color: #313131;
     border-radius: 5px;
